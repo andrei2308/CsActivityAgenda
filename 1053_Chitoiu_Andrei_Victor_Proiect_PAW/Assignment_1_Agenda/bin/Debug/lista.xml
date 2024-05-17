@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ArrayOfActivitati xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Activitati>
+    <ID>0</ID>
+    <denumire>Lectie de Dans</denumire>
+    <tipAct>Relaxare</tipAct>
+    <timpStart>2020-05-28T23:14:24</timpStart>
+    <timpFinish>2020-05-29T23:14:24</timpFinish>
+    <necesitaProiect>false</necesitaProiect>
+    <domeniu>
+      <ID>0</ID>
+      <DenumireDomeniu>Sport</DenumireDomeniu>
+      <NecesitateResurse>true</NecesitateResurse>
+      <Resursa>costum</Resursa>
+    </domeniu>
+    <proiect>
+      <ID>0</ID>
+      <denumire />
+      <coord />
+      <deadLine>9999-12-31T23:59:59</deadLine>
+    </proiect>
+  </Activitati>
+  <Activitati>
+    <ID>0</ID>
+    <denumire>Inot</denumire>
+    <tipAct>Relaxare</tipAct>
+    <timpStart>2020-05-28T23:16:01</timpStart>
+    <timpFinish>2020-06-29T23:16:01</timpFinish>
+    <necesitaProiect>true</necesitaProiect>
+    <domeniu>
+      <ID>0</ID>
+      <DenumireDomeniu>Sport</DenumireDomeniu>
+      <NecesitateResurse>true</NecesitateResurse>
+      <Resursa> costum</Resursa>
+    </domeniu>
+    <proiect>
+      <ID>0</ID>
+      <denumire>Medalia</denumire>
+      <coord>Antrenor</coord>
+      <deadLine>2020-05-29T23:16:01</deadLine>
+    </proiect>
+  </Activitati>
+  <Activitati>
+    <ID>0</ID>
+    <denumire>lectura</denumire>
+    <tipAct>Relaxare</tipAct>
+    <timpStart>2020-05-28T23:16:49</timpStart>
+    <timpFinish>2020-05-30T23:16:49</timpFinish>
+    <necesitaProiect>false</necesitaProiect>
+    <domeniu>
+      <ID>0</ID>
+      <DenumireDomeniu>Lectura</DenumireDomeniu>
+      <NecesitateResurse>false</NecesitateResurse>
+      <Resursa />
+    </domeniu>
+    <proiect>
+      <ID>0</ID>
+      <denumire />
+      <coord />
+      <deadLine>9999-12-31T23:59:59</deadLine>
+    </proiect>
+  </Activitati>
+  <Activitati>
+    <ID>0</ID>
+    <denumire>Jocuri</denumire>
+    <tipAct>Relaxare</tipAct>
+    <timpStart>2020-05-29T23:17:29</timpStart>
+    <timpFinish>2020-06-03T23:17:29</timpFinish>
+    <necesitaProiect>true</necesitaProiect>
+    <domeniu>
+      <ID>0</ID>
+      <DenumireDomeniu>Gaming</DenumireDomeniu>
+      <NecesitateResurse>false</NecesitateResurse>
+      <Resursa />
+    </domeniu>
+    <proiect>
+      <ID>0</ID>
+      <denumire>Esports</denumire>
+      <coord>Antrenor</coord>
+      <deadLine>2020-05-29T23:17:29</deadLine>
+    </proiect>
+  </Activitati>
+</ArrayOfActivitati>

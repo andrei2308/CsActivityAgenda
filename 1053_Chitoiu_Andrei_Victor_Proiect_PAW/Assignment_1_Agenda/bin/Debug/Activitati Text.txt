@@ -1,0 +1,4 @@
+Lectie de Dans,Relaxare,5/28/2024 11:14:24 PM,5/29/2024 11:14:24 PM,False,Sport,True,costum,,,12/31/9999 11:59:59 PM
+Inot,Relaxare,5/28/2024 11:16:01 PM,6/29/2024 11:16:01 PM,True,Sport,True, costum,Medalia,Antrenor,5/29/2024 11:16:01 PM
+lectura,Relaxare,5/28/2024 11:16:49 PM,5/30/2024 11:16:49 PM,False,Lectura,False,,,,12/31/9999 11:59:59 PM
+Jocuri,Relaxare,5/29/2024 11:17:29 PM,6/3/2024 11:17:29 PM,True,Gaming,False,,Esports,Antrenor,5/29/2024 11:17:29 PM

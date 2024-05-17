@@ -1,0 +1,60 @@
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe.config
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.pdb
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csprojAssemblyReference.cache
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.AgendaActiv.resources
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.Properties.Resources.resources
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.GenerateResource.cache
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.CoreCompileInputs.cache
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.exe
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.pdb
+E:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.CreareAgenda.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe.config
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csprojAssemblyReference.cache
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.AgendaActiv.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.CreareAgenda.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.Properties.Resources.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.GenerateResource.cache
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.CoreCompileInputs.cache
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\Assignment_Sol\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.EditareActivitate.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe.config
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csprojAssemblyReference.cache
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.AgendaActiv.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.CreareAgenda.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.EditareActivitate.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.Properties.Resources.resources
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.GenerateResource.cache
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.CoreCompileInputs.cache
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\SEMINAR\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe.config
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csprojAssemblyReference.cache
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.AgendaActiv.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.CreareAgenda.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.EditareActivitate.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.Properties.Resources.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.GenerateResource.cache
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.CoreCompileInputs.cache
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\ASSIGNMENT #1\1052_Mares_Robert_Dorian_TEMA1\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe.config
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\bin\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csprojAssemblyReference.cache
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.AgendaActiv.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.CreareAgenda.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.EditareActivitate.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.Properties.Resources.resources
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.GenerateResource.cache
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.csproj.CoreCompileInputs.cache
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.exe
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.pdb
+D:\ASE\AN2 SEM2\PAW\PROIECTUL MEU\1052_Mares_Robert_Dorian_Proiect_PAW\1052_Mares_Robert_Dorian\Assignment_1_Agenda\obj\Debug\Assignment_1_Agenda.Stats.resources
